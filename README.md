@@ -15,5 +15,3 @@ So please leave codes with comments and introductions.
 
 ## How we do this
 Welcome everyone to correct it ,and give better options or answers.
-
-The details of studying this book in Chinese,you can find it in: www.wutoucangying.com
